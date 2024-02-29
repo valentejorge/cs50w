@@ -14,3 +14,5 @@
 - JavaScript
 
 - Testing and CI/CD (Continuous integration / Continuous Delivery)
+
+- Scalabity and Security
